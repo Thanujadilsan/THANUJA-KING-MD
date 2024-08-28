@@ -33,7 +33,7 @@
 
 ## CONTACT OWNER
 
-[![{}]
+[THANUJA &THARUVA!]
 
 </details>
 
