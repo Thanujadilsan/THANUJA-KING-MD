@@ -1,5 +1,6 @@
 # THANUJA-KING-MD
 2024 NEW WHATSAPP BOT
+
 <div align="center">
      
  [![Typing SVG]()
@@ -24,7 +25,7 @@
 
 ## JOIN MY WHATSAPP CHANNEL
 
-[![0029VahMZasD8SE5GRwzqn3Z)
+[![https://whatsapp.com/channel/0029VagILByLI8YYhwpnyA2L)
 
 
 
@@ -32,7 +33,7 @@
 
 ## CONTACT OWNER
 
-[![
+[![{}]
 
 </details>
 
@@ -45,7 +46,7 @@
 <hr>
 
 
-## DEPLOY BY SESSION ID or creds.json (Qr code)
+## 
 
 
 
