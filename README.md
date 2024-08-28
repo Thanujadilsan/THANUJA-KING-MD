@@ -2,7 +2,7 @@
 2024 NEW WHATSAPP BOT
 
 <div align="center">
- image (url) = "    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
+ image (url) = "    <img src="content://media/external/downloads/472"  width="700px">
 "    
  [![Typing SVG]()
 
