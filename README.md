@@ -2,7 +2,8 @@
 2024 NEW WHATSAPP BOT
 
 <div align="center">
-     
+ image (url) = "    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
+"    
  [![Typing SVG]()
 
 ## FIXING  ALL ERRORS IN NEXT UPDATE WAIT..... 
@@ -33,7 +34,7 @@
 
 ## CONTACT OWNER
 
-[THANUJA &THARUVA!]
+[94711925738 & 94702509233!]
 
 </details>
 
@@ -77,12 +78,6 @@
 6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 THANUJA-KING 𝙼𝙳 𝙱𝙾𝚃.
 
 
-## THANKS TO 👨‍💻
+##  OWNER 👨‍💻
 
-• Asif King - Web Design
-
-• Kasun - Testing
-
-• Danidu Nirmal - Logo Design
-
-• Ushani - Voice Helper
+• ThanujaDilsan & anilsasith2451
