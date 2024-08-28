@@ -2,7 +2,7 @@
 2024 NEW WHATSAPP BOT
 
 <div align="center">
- image (url) = "    <img src="content://media/external/downloads/472"  width="700px">
+ image (url) = "    <img src="pexels-ray027-8284632-fotor-2024082819333"  width="700px">
 "    
  [![Typing SVG]()
 
