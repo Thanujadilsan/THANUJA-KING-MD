@@ -1,8 +1,9 @@
 # THANUJA-KING-MD
 2024 NEW WHATSAPP BOT
 
+
 <div align="center">
-    <img src=""  width="700px">
+    <img src=wp6512454-yamaha-wrx-wallpapers.ipg""  width="700px">
 "    
  [![Typing SVG]()
 
@@ -28,7 +29,8 @@
 
 [![https://whatsapp.com/channel/0029VagILByLI8YYhwpnyA2L)
 
-
+##PAIR WEBSITE 
+<pair-web-public.koyeb.app/>
 
 <b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 
