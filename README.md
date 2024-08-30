@@ -1,7 +1,6 @@
 # THANUJA-KING-MD
 2024 NEW WHATSAPP BOT
-
-
+🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰
 <div align="center">
     <img src=whttps://telegra.ph/THANUJA-KING-MD-08-29"  width="700px">
 "    
@@ -57,7 +56,7 @@
 <>
 
 
-
+##
 
 
 
@@ -91,4 +90,4 @@
 
 ##  OWNER 👨‍💻
 
-• ThanujaDilsan & anilsasith2451
+• ThanujaDilsan&  anilsasith2451
