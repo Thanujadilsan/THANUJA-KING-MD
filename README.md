@@ -2,7 +2,8 @@
 2024 NEW WHATSAPP BOT
 🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰
 <div align="center">
-    <img src=whttps://telegra.ph/THANUJA-KING-MD-08-29"  width="700px">
+    <img src=Uploading wp6512529-yamaha-wrx-wallpapers.jpg…]()
+"  width="700px">
 "    
  [![Typing SVG]()
 
