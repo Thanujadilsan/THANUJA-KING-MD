@@ -11,10 +11,10 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - VAJIRA- MD 
-* Author - Vajira Rathnayaka
-* Team - Technical Cybers 
-* Version - V6
+* Project name - THANUJA-KING-MD
+* Author - ThanujaDilsan
+* Team - 
+* Version - V10
 
 World best and powerfull whatsapp user bot in Sri lanka*/
 
