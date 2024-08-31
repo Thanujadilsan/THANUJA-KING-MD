@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=THANUJAA+MD+WHATSAPP+BOT" alt="Typing SVG" />
 p align="center">
-<a href="https://github.com/VajiraTech">
+<a href="https://github.com/ThanujaDilsan">
     <img 
 <hr>
 
