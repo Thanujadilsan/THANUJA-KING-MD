@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&letterSpacing=norma&pause=1000&color=F70000E1&vCenter=true&multiline=true&width=435&height=100&lines=THANUJA-KING-MD)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF0101EA&width=435&lines=%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%A8%F0%9D%97%9D%F0%9D%97%94-%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9A-%F0%9D%97%A0%F0%9D%97%97)](https://git.io/typing-svg)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
