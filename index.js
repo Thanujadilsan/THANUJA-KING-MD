@@ -54,7 +54,7 @@ const prefig = config.PREFIG
 
 
 
-console.log("Connecting THANUJAA-MD ✅");
+console.log("Connecting THANUJA-KING-MD ✅");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -84,7 +84,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `THANUJAA-MD connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `THANUJA-KING-MD connected successful ✅\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
 
