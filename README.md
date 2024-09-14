@@ -12,7 +12,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-
+<img src="https://telegra.ph/file/900435c6d3157c98c3c88.jpg"  width="700px">
+</a> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=DB00C6EA&width=435&lines=MULIT++DEVICE)](https://git.io/typing-svg)
 
 
